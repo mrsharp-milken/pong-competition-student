@@ -1,5 +1,25 @@
 # Getting Started
 
+## Download code
+
+Go to your cs50-workspace, open Terminal, and run each of these commands separately:
+
+```bash
+git clone https://github.com/mrsharp-milken/pong-competition-student /tmp/pong-temp
+```
+
+```bash
+cp -r /tmp/pong-temp pong-competition-student
+```
+
+```bash
+rm -rf pong-competition-student/.git
+```
+
+```bash
+cd pong-competition-student
+```
+
 ## Setup
 
 ```bash
